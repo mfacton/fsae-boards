@@ -6,8 +6,8 @@ __pycache__/
 
 ### KiCad ###
 *-backups/
-.lck
-.log
+*.lck
+*.log
 fp-info-cache
 *auto_saved_files*
 
