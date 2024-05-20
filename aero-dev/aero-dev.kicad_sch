@@ -9641,6 +9641,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2986059"
+			(at 248.92 143.51 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49cdc98a-bb62-40e9-bdb4-0c334db06c68")
 		)
@@ -9996,7 +10005,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "757ba574-fd7a-467b-8b95-06e0b565473a")
 		(property "Reference" "J4"
@@ -10575,7 +10584,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 72.0852 35.56 0)
 			(effects
 				(font
@@ -11223,7 +11232,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "c5c57fb5-62bc-4086-8d37-1a188735ed1d")
 		(property "Reference" "J6"
@@ -11432,7 +11441,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "d8ba7f1b-72ce-4ebe-973c-38e6792a453e")
 		(property "Reference" "J1"
@@ -11979,7 +11988,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f2718a3b-730d-47e7-a0b7-96b892db8849")
 		(property "Reference" "J5"
